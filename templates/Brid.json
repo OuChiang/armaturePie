@@ -1,0 +1,299 @@
+{
+    "HEAD": {
+        "is_title": true,
+        "btn_icon": "MONKEY",
+        "pie_wheel_enum": "3",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": null
+    },
+    "BODY": {
+        "is_title": true,
+        "btn_icon": "OUTLINER_OB_ARMATURE",
+        "pie_wheel_enum": "5",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": null
+    },
+    "WING": {
+        "is_title": false,
+        "btn_icon": "BLANK1",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": null
+    },
+    "LEG": {
+        "is_title": false,
+        "btn_icon": "MOD_DYNAMICPAINT",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": null
+    },
+    "OTHERS": {
+        "is_title": true,
+        "btn_icon": "POINTCLOUD_POINT",
+        "pie_wheel_enum": "4",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": null
+    },
+    "ROOT": {
+        "is_title": true,
+        "btn_icon": "PMARKER_ACT",
+        "pie_wheel_enum": "2",
+        "pie_row": 0,
+        "pie_index": 1,
+        "btn_label": "",
+        "parent": null
+    },
+    "DEF": {
+        "is_title": true,
+        "btn_icon": "MOD_VERTEX_WEIGHT",
+        "pie_wheel_enum": "2",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": null
+    },
+    "MCH": {
+        "is_title": false,
+        "btn_icon": "BLANK1",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": null
+    },
+    "ORG": {
+        "is_title": false,
+        "btn_icon": "BLANK1",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": null
+    },
+    "Face": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_MOVING_HOLD_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "HEAD"
+    },
+    "Face (Tweak)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_BREAKDOWN_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "HEAD"
+    },
+    "Spine": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_KEYFRAME_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "BODY"
+    },
+    "Spine (Tweak)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_BREAKDOWN_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "BODY"
+    },
+    "WING L": {
+        "is_title": true,
+        "btn_icon": "CON_ARMATURE",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "WING"
+    },
+    "WING R": {
+        "is_title": true,
+        "btn_icon": "CON_ARMATURE",
+        "pie_wheel_enum": "1",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "WING"
+    },
+    "Wing.L": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_JITTER_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "WING L"
+    },
+    "Wing.L (Tweak)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_BREAKDOWN_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "WING L"
+    },
+    "Wing.R": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_JITTER_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "WING R"
+    },
+    "Wing.R (Tweak)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_BREAKDOWN_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "WING R"
+    },
+    "LEG L": {
+        "is_title": true,
+        "btn_icon": "MOD_DYNAMICPAINT",
+        "pie_wheel_enum": "7",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "LEG"
+    },
+    "LEG R": {
+        "is_title": true,
+        "btn_icon": "MOD_DYNAMICPAINT",
+        "pie_wheel_enum": "6",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "LEG"
+    },
+    "Leg.R (IK)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_EXTREME_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "LEG R"
+    },
+    "Leg.R (FK)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_JITTER_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "LEG R"
+    },
+    "Leg.R (Tweak)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_BREAKDOWN_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "LEG R"
+    },
+    "Root": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_EXTREME_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "ROOT"
+    },
+    "Setting": {
+        "is_title": true,
+        "btn_icon": "PREFERENCES",
+        "pie_wheel_enum": "2",
+        "pie_row": 0,
+        "pie_index": 2,
+        "btn_label": "",
+        "parent": "ROOT"
+    },
+    "Leg.L (IK)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_EXTREME_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "LEG L"
+    },
+    "Leg.L (FK)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_JITTER_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "LEG L"
+    },
+    "Leg.L (Tweak)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_BREAKDOWN_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "LEG L"
+    },
+    "CLAWS": {
+        "is_title": false,
+        "btn_icon": "BLANK1",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "OTHERS"
+    },
+    "Feathers": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_MOVING_HOLD_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "OTHERS"
+    },
+    "Claws": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_MOVING_HOLD_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "CLAWS"
+    },
+    "Claws (Tweak)": {
+        "is_title": false,
+        "btn_icon": "KEYTYPE_BREAKDOWN_VEC",
+        "pie_wheel_enum": "0",
+        "pie_row": 0,
+        "pie_index": 0,
+        "btn_label": "",
+        "parent": "CLAWS"
+    }
+}
